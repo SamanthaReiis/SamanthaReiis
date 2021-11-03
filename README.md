@@ -7,7 +7,7 @@
 I'm currently part of the <a href="https://datalabe.org/">Data_Labe</a> data team, Data_Labe is a data and narrative laboratory in the favela of Maré – Rio de Janeiro.
 The team is made up of young residents of territories that produce new narratives through data. 
 <br>Pythonic programming 🐍 and open source  :octocat:. 
-Sharing knowledge and seeking even more. I have a project that teaches programming, science and data journalism <a href="https://datalabe.org/">Py_Perifa</a></br></p>
+Sharing knowledge and seeking even more. I have a project that teaches programming, science and data journalism <a href="https://instagram.com/py.perifa?utm_medium=copy_link">Py_Perifa</a></br></p>
 
 -  💬 Let's talk about data science, teaching, technology, algorithms, medical physics, math.
 
