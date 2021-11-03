@@ -1,5 +1,7 @@
-<h1 align="center">Hi there 👋, Samantha here</h1>
-<h3 align="center">I am data scientist, passionate about math and physics.</h3>
+<p align="center">
+  <img src="https://github.com/SamanthaReiis/SamanthaReiis/blob/main/image_header.gif" alt="Oi, eu sou a Kizzy">
+</p>
+
 
 <p> 🙋🏽, I'm a beginner and independent data scientist, majoring in Medical Physics  at the Federal University of Rio de Janeiro.
 I'm currently part of the <a href="https://datalabe.org/">Data_Labe</a> data team, Data_Labe is a data and narrative laboratory in the favela of Maré – Rio de Janeiro.
