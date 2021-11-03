@@ -19,7 +19,7 @@ Sharing knowledge and seeking even more. I have a project that teaches programmi
 
 - 📄 Know about my experiences [here on my LinkedIn](https://www.linkedin.com/in/samantha-reis)
 
-- ⚡ Fun fact **I practice yoga, I ❤️ to travel and I have a 🐶 called Binti**
+- ⚡ Fun fact **I practice yoga, I ❤️ travel and I have a 🐶 called Binti**
 
 
 <details>
