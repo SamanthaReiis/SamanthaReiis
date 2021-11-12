@@ -17,7 +17,7 @@ Sharing knowledge and seeking even more. I have a project that teaches programmi
 
 - 📫 How to reach me **samanthasreiis@gmail.com**
 
-- 📄 Know about my experiences [here on my LinkedIn](https://www.linkedin.com/in/samantha-reis)
+- 📄 Know about my experiences [here on my LinkedIn](https://www.linkedin.com/in/samantha-reiis/)
 
 - ⚡ Fun fact **I practice yoga, I ❤️ travel and I have a 🐶 called Binti**
 
