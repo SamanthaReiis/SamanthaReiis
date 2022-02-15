@@ -1,7 +1,3 @@
-<p align="center">
-  <img src=" alt="">
-</p>
-
 
 <p> 🙋🏽, I'm a beginner and independent data scientist.
 I'm currently part of the <a href="https://datalabe.org/">Data_Labe</a> data team, Data_Labe is a data and narrative laboratory in the favela of Maré – Rio de Janeiro.
@@ -60,4 +56,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<p align="center">
+  <img src=" alt="">
+</p>
+
 -->
