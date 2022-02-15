@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/SamanthaReiis/SamanthaReiis/blob/main/image_header.gif" alt="Oi, eu sou a Kizzy">
+  <img src=" alt="">
 </p>
 
 
