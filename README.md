@@ -1,4 +1,5 @@
-
+<!--
+**
 <p> 🙋🏽, I'm a beginner and independent data scientist.
 I'm currently part of the <a href="https://datalabe.org/">Data_Labe</a> data team, Data_Labe is a data and narrative laboratory in the favela of Maré – Rio de Janeiro.
 The team is made up of young residents of territories that produce new narratives through data. 
